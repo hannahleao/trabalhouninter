@@ -1,5 +1,5 @@
 body {
-  background-color: #E8EDFF; /* cinza claro */
+  background-color: #F2F3FF; /* cinza claro */
   font-family: Poppins, sans-serif;
 }
 
@@ -37,12 +37,12 @@ table, th, td {
 a {
   color: #0F3FEE; /* mesmo azul do H1 */
   text-decoration: none;
-  text-align: center;
+  position: center;
 }
 
 a:hover {
   color: #87cefa; /* azul claro no hover */
-  text-align: center;
+  position: center;
 }
 
 button {
@@ -51,7 +51,7 @@ button {
   padding: 10px 20px;
   border: none;
   cursor: pointer;
-  text-align: center;
+  position: center;
 }
 
 button:hover {
