@@ -37,10 +37,12 @@ table, th, td {
 a {
   color: #0F3FEE; /* mesmo azul do H1 */
   text-decoration: none;
+  text-align: center;
 }
 
 a:hover {
   color: #87cefa; /* azul claro no hover */
+  text-align: center;
 }
 
 button {
@@ -49,6 +51,7 @@ button {
   padding: 10px 20px;
   border: none;
   cursor: pointer;
+  text-align: center;
 }
 
 button:hover {
