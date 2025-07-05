@@ -1,0 +1,56 @@
+body {
+  background-color: #f5f5f5; /* cinza claro */
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #000080; /* azul marinho */
+  text-align: center;
+}
+
+p {
+  color: #333333; /* cinza escuro */
+  font-size: 18px;
+  text-align: justify;
+}
+
+ul {
+  line-height: 2;
+}
+
+img {
+  border-radius: 8px;
+}
+
+table {
+  width: 50%;
+  margin: 20px auto;
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid #000;
+  padding: 8px;
+  text-align: center;
+}
+
+a {
+  color: #000080; /* mesmo azul do H1 */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #87cefa; /* azul claro no hover */
+}
+
+button {
+  background-color: #000080;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #87cefa; /* azul claro */
+}
